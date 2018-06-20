@@ -1,0 +1,1 @@
+# java-example-selenium-testng-log4j-screenshot
